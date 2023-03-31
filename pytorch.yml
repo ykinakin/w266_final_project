@@ -1,0 +1,20 @@
+name: pytorch
+
+channels:
+  - default
+
+dependencies:
+  - python==3.8
+  - jupyter
+  - flask
+  - pip
+  - pip:
+    - transformers==4.19.3
+    - torch==2.0.0
+    - fire==0.4.0
+    - tqdm==4.59.0
+    - scipy==1.6.2
+    - nltk==3.4.5
+    - openai==0.16.0
+    - thefuzz==0.19.0
+    - prettytable==3.2.0
