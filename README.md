@@ -1,8 +1,8 @@
-# w266_project
-W266 Final Project
+# Knowledge Graphs - Peeking Behind the Curtain of LLMs
+W266 Final Project (Spring, 2023)
 
 Over last ten years, significant progress has been made on large language models for a wide variety of natural language processing tasks (Min, 2021). While these models can achieve (and even occasionally supersede) human level performance, they are significantly more internally complex than historical approaches. Simple explanations of what each model has learned make interpretation difficult, and as these models are expected to be applied against an increasingly wide variety of tasks, having the ability to easily query their internal logic is increasingly important. Some of this can be achieved through the use of a knowledge graph (KG), which encodes semantic information and provides a way to visualize contextual relationships. Unfortunately, KGs have historically been complicated and onerous to create, requiring substantial manual input. A novel method to automatically generate KGs from a variety of large language models has been proposed by (Hao, 2022). 
 
-![KG](https://user-images.githubusercontent.com/57841352/232344518-247201e5-735f-4c87-9490-2a8552d7f6ca.png)
+![KG](https://user-images.githubusercontent.com/57841352/232344518-247201e5-735f-4c87-9490-2a8552d7f6ca.png width = "100") 
 
 We propose comparing KGs generated before and after a fine tuning exercise to help understand what is being learned by the model. Utilizing a domain-specific language corpus during fine tuning should help narrow the scope of changes. The Geological Survey of Canada has provided a series of notebooks to generate a machine readable corpus from their existing catalog of publications (Raimondo, 2022). We can then focus on a manual review of the major differences between the two KGs (before and after training) for geoscience specific words and concepts.
