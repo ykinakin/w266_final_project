@@ -1,0 +1,22 @@
+[
+    [
+        "One function of the <ENT1> is to create <ENT0>s .",
+        0.24001919943018551
+    ],
+    [
+        "A <ENT1> is a molecule that oversees the production of a <ENT0> .",
+        0.23737640481410996
+    ],
+    [
+        "The thing responsible for creating a <ENT0> is called the <ENT1> .",
+        0.2337187280017435
+    ],
+    [
+        "<ENT1> is a process or agent that creates <ENT0> .",
+        0.1784961912834931
+    ],
+    [
+        "A <ENT1> is something that makes <ENT0> .",
+        0.11038947647046787
+    ]
+]

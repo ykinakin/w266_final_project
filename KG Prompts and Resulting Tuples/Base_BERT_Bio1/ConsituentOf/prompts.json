@@ -1,0 +1,22 @@
+[
+    [
+        "In biology, <ENT0> belongs to the family of <ENT1> .",
+        0.2455701678916807
+    ],
+    [
+        "In biology, <ENT1> is an example of <ENT0> .",
+        0.21459684052701608
+    ],
+    [
+        "In biology, <ENT1> is a constituent of <ENT0> .",
+        0.19598274888551048
+    ],
+    [
+        "<ENT1> is a type of <ENT0> .",
+        0.18338038287170616
+    ],
+    [
+        "In biology, <ENT1> is a <ENT0> .",
+        0.16046985982408662
+    ]
+]

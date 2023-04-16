@@ -1,0 +1,22 @@
+[
+    [
+        "It is typical for <ENT0> to cause <ENT1> .",
+        0.4563744712316592
+    ],
+    [
+        "<ENT0> usually results in <ENT1>s .",
+        0.1912734392622905
+    ],
+    [
+        "Organisms experience <ENT1> while <ENT0>s at some point .",
+        0.18607193389208196
+    ],
+    [
+        "It is typical to <ENT1> when <ENT0>s .",
+        0.09550548026349315
+    ],
+    [
+        "<ENT0> typically <ENT1> .",
+        0.07077467535047523
+    ]
+]

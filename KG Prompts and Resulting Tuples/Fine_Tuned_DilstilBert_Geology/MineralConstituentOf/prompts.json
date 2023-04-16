@@ -1,0 +1,10 @@
+[
+    [
+        "<ENT1> is a mineral constituent of <ENT0> .",
+        0.5715177830050648
+    ],
+    [
+        "<ENT0> rocks are composed of minerals such as <ENT1> .",
+        0.42848221699493516
+    ]
+]

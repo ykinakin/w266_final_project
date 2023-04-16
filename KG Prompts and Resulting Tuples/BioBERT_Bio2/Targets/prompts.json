@@ -1,0 +1,22 @@
+[
+    [
+        "It is typical for <ENT0> to target <ENT1> .",
+        0.3924282157113409
+    ],
+    [
+        "<ENT0> works by binding tightly to <ENT1> .",
+        0.1683550538695508
+    ],
+    [
+        "It is typical for <ENT1> to decrease when bound to <ENT0>s .",
+        0.16175035316667244
+    ],
+    [
+        "<ENT0> binds to <ENT1>s .",
+        0.1497790991542642
+    ],
+    [
+        "<ENT0> targets <ENT1> .",
+        0.12768727809817165
+    ]
+]
