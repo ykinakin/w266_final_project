@@ -1,0 +1,2180 @@
+,node,domain_relevant
+0,low voltage,1
+1,discharge,1
+2,shock,1
+3,large boulders,0
+4,erosion,0
+5,women,1
+6,sexual intercourse,1
+7,water vapor,1
+8,precipitation,1
+9,black spots,1
+10,color,1
+11,oxygen,1
+12,hydrogen atoms,1
+13,sexual harassment,0
+14,low velocity,0
+15,vibration,0
+16,instability,0
+17,human remains,0
+18,illness,1
+19,white wine,0
+20,poisoning,1
+21,human presence,0
+22,females,1
+23,sexual reproduction,1
+24,surgery,1
+25,severe complications,1
+26,small teeth,1
+27,bite,0
+28,hydrogen bonding,1
+29,human interference,0
+30,disaster,0
+31,female,1
+32,male dominance,0
+33,red,1
+34,large clouds,0
+35,gravity,0
+36,zero gravity,0
+37,small islands,0
+38,earthquakes,0
+39,rot,1
+40,large structures,0
+41,collapse,0
+42,birth,1
+43,premature birth,1
+44,Sexual Orientation,1
+45,protein,1
+46,cell proliferation,1
+47,plants,1
+48,Plant Growth,1
+49,hydrogen gas,1
+50,white spots,1
+51,bitterness,0
+52,another country,0
+53,war,0
+54,sexual tension,0
+55,genes,1
+56,gene expression,1
+57,cells,1
+58,poison,1
+59,fatal wounds,1
+60,sex,1
+61,negative responses,1
+62,large events,0
+63,disease,1
+64,death,1
+65,small aircraft,0
+66,flight,0
+67,par,0
+68,double par,0
+69,male aggression,1
+70,fatal poisoning,1
+71,families,0
+72,family members,0
+73,cancer,1
+74,symptoms,1
+75,infection,1
+76,cell division,1
+77,parents,1
+78,Child Abuse,0
+79,negative response,1
+80,weight,1
+81,lower weights,1
+82,Child Care,0
+83,large aircraft,0
+84,mutation,1
+85,genetic variation,1
+86,light,1
+87,dark spots,1
+88,fire,0
+89,damage,1
+90,genetic mutation,1
+91,culture,0
+92,social interaction,0
+93,human population,1
+94,diseases,1
+95,patients,1
+96,severe illness,1
+97,mortality,1
+98,small wave,0
+99,tsunami,0
+100,Plant Diseases,1
+101,children,1
+102,negative thoughts,0
+103,pain,1
+104,negative results,1
+105,another force,0
+106,rain,0
+107,urine,1
+108,kidney stones,1
+109,money,0
+110,life savings,0
+111,fatal effects,1
+112,calling,0
+113,alarm calls,0
+114,cell growth,1
+115,smoke,1
+116,human species,1
+117,extinction,0
+118,people,1
+119,blood,1
+120,bleeding,1
+121,waves,0
+122,wave waves,0
+123,anger,0
+124,violent feelings,0
+125,hair,1
+126,skin lesions,1
+127,water,1
+128,alcohol,1
+129,depression,1
+130,flooding,0
+131,violent emotions,1
+132,abnormal development,1
+133,hands,1
+134,hand motions,1
+135,work,0
+136,high yields,1
+137,groups,1
+138,Group Members,1
+139,offspring,1
+140,suicide,1
+141,snakes,1
+142,venom attacks,1
+143,flood,0
+144,burns,1
+145,gene mutation,1
+146,smoking,1
+147,discomfort,1
+148,high velocity,0
+149,life,1
+150,severe trauma,1
+151,three,0
+152,Double Play,0
+153,long,0
+154,short vowels,0
+155,child abandonment,0
+156,severe effects,1
+157,fusion,1
+158,nuclear reactions,0
+159,marriage,0
+160,violent reactions,0
+161,problems,1
+162,nuclear reaction,0
+163,pregnancy,1
+164,hydrogen poisoning,1
+165,family conflicts,0
+166,violent reaction,0
+167,drought,0
+168,sleep,1
+169,fatigue,1
+170,Parkinson,1
+171,malaria,1
+172,bees,1
+173,bee sting,1
+174,drowning,1
+175,behaviour,0
+176,venom poisoning,1
+177,males,1
+178,aggression,0
+179,rainfall,0
+180,high volume,1
+181,group formation,0
+182,giving,0
+183,good performance,0
+184,bee attacks,0
+185,snow,0
+186,frost,0
+187,eyes,1
+188,eye contact,0
+189,music,0
+190,emotional tension,0
+191,honey,0
+192,floods,0
+193,language,0
+194,Group Differences,0
+195,lightning,0
+196,stress,1
+197,hand movements,0
+198,luck,0
+199,good results,1
+200,short runs,0
+201,another,0
+202,sweat,1
+203,irritation,1
+204,walking,1
+205,leaves,0
+206,red stain,0
+207,pollution,1
+208,plant rot,1
+209,biting,0
+210,inflammation,1
+211,Double Crosses,0
+212,data,1
+213,false values,0
+214,weather,0
+215,double digits,0
+216,age,1
+217,magic,0
+218,harm,1
+219,fear,0
+220,social interactions,0
+221,season,0
+222,Winter Weather,0
+223,zero pressure,0
+224,winter storms,0
+225,Bee Attack,0
+226,species,1
+227,false starts,0
+228,killing,1
+229,eye movement,1
+230,false statements,0
+231,hand movement,0
+232,wave action,0
+233,breathing,1
+234,distress,1
+235,soil,1
+236,error,0
+237,hand shaking,0
+238,cell migration,1
+239,birds,1
+240,panic,1
+241,sunlight,0
+242,heat,1
+243,cannabis,1
+244,eating,1
+245,cold,1
+246,small waves,0
+247,venom,1
+248,complications,1
+249,tears,1
+250,tear marks,1
+251,couples,0
+252,divorce,0
+253,infections,1
+254,mixing,1
+255,confusion,1
+256,flu,1
+257,fever,1
+258,fishing,0
+259,tear formation,1
+260,toxicity,1
+261,abortion,1
+262,venom toxicity,1
+263,acid,1
+264,evolution,1
+265,love,0
+266,Life Love,0
+267,burning,1
+268,social isolation,0
+269,traffic,0
+270,congestion,0
+271,driving,0
+272,accidents,0
+273,aircraft,0
+274,flight sickness,0
+275,anxiety,1
+276,abnormal growth,1
+277,nature,1
+278,running,1
+279,trouble,1
+280,injury,1
+281,trauma,1
+282,migration,0
+283,tuberculosis,1
+284,pneumonia,1
+285,mining,0
+286,nuclear war,0
+287,two,0
+288,others,0
+289,deaths,1
+290,maintenance,1
+291,failure,1
+292,talking,1
+293,emotional response,0
+294,genetic instability,1
+295,rape,0
+296,sweating,1
+297,good result,1
+298,athletes,0
+299,injuries,1
+300,temperature,1
+301,violence,0
+302,gas,1
+303,evil,0
+304,destruction,1
+305,car,0
+306,Driver Safety,0
+307,ice,0
+308,conflict,0
+309,life satisfaction,0
+310,contact,1
+311,tension,1
+312,plague,1
+313,time,1
+314,change,1
+315,coffee,1
+316,youth,1
+317,training,1
+318,wine,1
+319,God,0
+320,evil things,0
+321,heart,1
+322,cardiac arrest,1
+323,suffering,1
+324,trees,1
+325,students,0
+326,shooting,0
+327,thunder,0
+328,hail,0
+329,vegetation,1
+330,players,0
+331,play times,0
+332,touch,1
+333,sensation,1
+334,crying,1
+335,winter,0
+336,dreaming,1
+337,nightmares,1
+338,irrigation,0
+339,practice,0
+340,delay,1
+341,sound,0
+342,clouds,0
+343,fog,0
+344,disturbance,1
+345,mother,1
+346,good things,0
+347,Bee Infections,0
+348,delays,1
+349,pressure,1
+350,contraction,1
+351,wind,0
+352,mutations,1
+353,changes,1
+354,populations,1
+355,exercise,1
+356,casualties,1
+357,population,1
+358,swallowing,1
+359,nausea,1
+360,accident,1
+361,football,0
+362,winter temperatures,0
+363,rains,0
+364,low,0
+365,high,0
+366,tree rot,1
+367,flood events,0
+368,noise,0
+369,moisture,1
+370,darkness,0
+371,sickness,1
+372,skin,1
+373,information,0
+374,tornadoes,0
+375,mouth,1
+376,tongue opening,1
+377,analysis,1
+378,drink,1
+379,oil,1
+380,compression,1
+381,loss,1
+382,air,1
+383,action,1
+384,spring,0
+385,emotional reactions,0
+386,cardiac attack,1
+387,events,1
+388,writing,0
+389,night,0
+390,sleep late,0
+391,forces,0
+392,friction,0
+393,television,0
+394,Tv News,0
+395,falling,0
+396,falls,0
+397,Evil Thoughts,0
+398,tongue movements,1
+399,tongue movement,1
+400,errors,1
+401,black,0
+402,software,0
+403,thought,0
+404,brain tumors,1
+405,acceleration,0
+406,like,0
+407,bad things,0
+408,Bad Weather,0
+409,tongue contact,1
+410,release,1
+411,tear attacks,0
+412,possession,0
+413,word,0
+414,bad situations,0
+415,hand,1
+416,feelings,0
+417,name,0
+418,Word Use,0
+419,building,0
+420,murder,0
+421,part,1
+422,intercourse,1
+423,orgasm,1
+424,tv programming,0
+425,dark,1
+426,bad thoughts,0
+427,word usage,0
+428,fatalities,1
+429,emotions,0
+430,tv shows,0
+431,success,0
+432,things,0
+433,near,1
+434,flow,1
+435,memory,0
+436,going,0
+437,desire,0
+438,earthquake,0
+439,travel,0
+440,Python,0
+441,bite wounds,1
+442,production,1
+443,reading,0
+444,wear,0
+445,risk,1
+446,reason,1
+447,care,0
+448,power,0
+449,effects,1
+450,tv channels,0
+451,hearing,1
+452,construction,0
+453,Bad Results,1
+454,word repetition,0
+455,word substitution,0
+456,Tv Commercials,0
+457,sin,0
+458,event,1
+459,current,1
+460,brain lesions,1
+461,Black Syndrome,1
+462,white,1
+463,humidity,0
+464,aids,1
+465,china,0
+466,Co₂,0
+467,hiv,1
+468,biological stress,1
+469,stress response,1
+470,snake venom,1
+471,biological tissue,1
+472,tissue engineering,1
+473,Social Work,0
+474,sociology,0
+475,Human Sexuality,1
+476,gender,1
+477,biological cells,1
+478,defense,1
+479,defensive strategy,0
+480,reproductive success,1
+481,homosexuality,1
+482,psychology,1
+483,linear transformation,0
+484,linear programming,0
+485,natural history,0
+486,archaeology,0
+487,concrete,0
+488,structural concrete,0
+489,geography,0
+490,acoustic sound,0
+491,chemical warfare,0
+492,human physiology,1
+493,anatomy,1
+494,expression,1
+495,natural selection,1
+496,adaptation,1
+497,translation,1
+498,gene translation,1
+499,genetic testing,1
+500,screening,1
+501,natural law,1
+502,laws,0
+503,glass,0
+504,crystal glass,0
+505,nuclear reactors,0
+506,electricity,0
+507,metabolic syndrome,1
+508,diabetes,1
+509,cheese,0
+510,Swiss Cheese,0
+511,gene transfer,1
+512,chromosome transfer,1
+513,logic,0
+514,research,1
+515,molecular biology,1
+516,enzymes,1
+517,genetic manipulation,1
+518,linear dynamics,0
+519,amino acids,1
+520,common stock,0
+521,cattle,0
+522,chemical reactions,1
+523,enzyme,1
+524,Social Theory,0
+525,uranium,0
+526,chemical synthesis,1
+527,reaction,1
+528,tobacco,1
+529,autism,1
+530,synthetic substances,1
+531,chemicals,1
+532,synthesis,1
+533,common sense,0
+534,behavior,0
+535,muscle,1
+536,motor neurons,1
+537,common nouns,0
+538,verbs,0
+539,fluid dynamics,1
+540,phylogenetic tree,1
+541,metabolic signaling,1
+542,signalling,1
+543,metabolism,1
+544,molecular engineering,1
+545,technology,1
+546,economics,0
+547,nuclear resistance,0
+548,radiation,1
+549,fluid flow,1
+550,variation,1
+551,gene variation,1
+552,resistance,1
+553,immune response,1
+554,phylogenetic research,1
+555,metabolic stress,1
+556,hormones,1
+557,dynamic transformations,1
+558,phylogenetic trees,1
+559,graphs,0
+560,Common Use,0
+561,spelling,0
+562,phylogenetic theory,1
+563,primary vegetation,1
+564,oak,1
+565,phylogenetic descent,1
+566,branching,1
+567,grape wine,0
+568,sperm,1
+569,egg sperm,1
+570,Nuclear Stress,0
+571,movement,1
+572,mechanical movement,1
+573,suicide prevention,0
+574,defensive play,0
+575,fluid mechanics,1
+576,Star System,0
+577,stars,0
+578,fluid diffusion,1
+579,inflammatory response,1
+580,Biological Therapy,1
+581,therapeutic therapy,1
+582,bamboo,0
+583,defensive defense,0
+584,immune resistance,1
+585,Neptune,0
+586,molecular analysis,1
+587,sampling,1
+588,molecular metabolism,1
+589,metaphor,0
+590,semantic metaphor,0
+591,mechanical movements,1
+592,synthetic technology,1
+593,engineering,1
+594,Sirius,0
+595,fluid,1
+596,liquid fluid,1
+597,molecular organization,1
+598,coordination,1
+599,synthetic tissue,1
+600,Earth,0
+601,Jupiter,0
+602,genus,1
+603,Iris Genus,1
+604,milk,1
+605,dairy products,1
+606,genetics,1
+607,Primary Therapy,1
+608,treatment,1
+609,tissues,1
+610,insulin,1
+611,structural steel,0
+612,metabolic therapy,1
+613,drugs,1
+614,compound substitution,1
+615,immune deficiency,1
+616,suicide syndrome,1
+617,hydrogen,1
+618,algae,1
+619,fish,1
+620,tea syrup,0
+621,salmon,1
+622,English,0
+623,clay,0
+624,sperm serum,1
+625,grammar,0
+626,hybrid form,1
+627,rose,1
+628,syntax,0
+629,speech,0
+630,fungus,1
+631,mushroom fungus,1
+632,science,1
+633,chemistry,1
+634,trout,1
+635,bacteria,1
+636,fungi,1
+637,yeast,1
+638,compounds,1
+639,medication,1
+640,nitrogen,1
+641,ant,1
+642,classification,1
+643,wood,1
+644,flame,0
+645,structural material,0
+646,mathematics,0
+647,rice,1
+648,wheat,1
+649,carbon,1
+650,roses,1
+651,shrimp,1
+652,marijuana,1
+653,medicine,1
+654,maize,1
+655,plant,1
+656,motion,1
+657,physics,1
+658,ants,1
+659,cocaine,1
+660,food,1
+661,meat,1
+662,ecology,1
+663,conservation,1
+664,sugar,1
+665,consciousness,1
+666,energy,1
+667,frog,1
+668,tea leaves,1
+669,mind,1
+670,differentiation,1
+671,matter,1
+672,morphology,1
+673,gram,1
+674,tea,1
+675,moss,1
+676,glucose,1
+677,jazz,0
+678,rhythm,1
+679,geometry,1
+680,development,1
+681,space,1
+682,calculus,0
+683,corn,1
+684,piano,0
+685,growth,1
+686,perception,1
+687,ethanol,1
+688,salt,1
+689,lust,0
+690,zinc,1
+691,copper,1
+692,nutrition,1
+693,transcription,1
+694,butterfly,1
+695,butterflies,1
+696,blue,1
+697,division,1
+698,physiology,1
+699,sulfur,1
+700,structure,1
+701,passion,0
+702,transport,1
+703,maple,1
+704,biodiversity,1
+705,soccer,0
+706,sodium,1
+707,inheritance,1
+708,mud,0
+709,beer,1
+710,tree,1
+711,grass,1
+712,compound reaction,1
+713,reactions,1
+714,interest,1
+715,equations,1
+716,choice,1
+717,selection,1
+718,algebra,0
+719,silk,0
+720,cotton,0
+721,platinum,0
+722,variance,1
+723,competition,1
+724,chess,0
+725,calcium,1
+726,bark,1
+727,dairy,1
+728,stone,0
+729,iron,1
+730,rock,0
+731,diffusion,1
+732,mercury,1
+733,silver,1
+734,nickel,0
+735,pine,1
+736,sand,1
+737,signaling,1
+738,law,1
+739,butter,1
+740,race,1
+741,basketball,0
+742,voice,0
+743,memories,0
+744,topology,0
+745,beans,1
+746,structural engineering,1
+747,handball,0
+748,lead,1
+749,phosphate,1
+750,swimming,1
+751,symmetry,1
+752,insects,1
+753,beetles,1
+754,grapes,1
+755,play,1
+756,agriculture,1
+757,farming,1
+758,media,0
+759,paper,0
+760,gene,1
+761,Cerambycidae,1
+762,emotion,0
+763,ethics,0
+764,cricket,1
+765,egg,1
+766,sport,0
+767,probability,1
+768,arithmetic,0
+769,words,0
+770,chicken,1
+771,grape,1
+772,crystal,1
+773,film,0
+774,relativity,0
+775,sadness,0
+776,racing,0
+777,grief,0
+778,flies,1
+779,granite,0
+780,forestry,1
+781,timber,0
+782,reproduction,1
+783,wool,0
+784,racism,0
+785,eternity,0
+786,apple,1
+787,preference,1
+788,analogy,0
+789,envy,0
+790,bats,1
+791,parchment,0
+792,proteins,1
+793,moth,1
+794,autumn,0
+795,cell,1
+796,neurons,1
+797,art,0
+798,bat,0
+799,summer,0
+800,happiness,0
+801,bacterium,1
+802,flowers,1
+803,gliding,0
+804,timing,0
+805,snake,1
+806,thread,0
+807,adrenaline,1
+808,turtles,1
+809,Iris Moths,1
+810,chromosome,1
+811,potato,1
+812,potatoes,1
+813,squash,1
+814,Geometridae,1
+815,Noctuidae,1
+816,mouse,1
+817,quartz,0
+818,Dna,1
+819,Rna,1
+820,Virus,1
+821,Atp,1
+822,Cellular Signaling,1
+823,Signaling Molecule,1
+824,Signaling Pathway,1
+825,Signaling Cascade,1
+826,cellular polarity,1
+827,polarity switch,1
+828,reward,1
+829,social reward,0
+830,code,1
+831,genetic code,1
+832,metabolite,1
+833,metabolic flux,1
+834,physical tension,1
+835,Photo Light,0
+836,difference,1
+837,normal skin,1
+838,dermis,1
+839,metabolic pathway,1
+840,positive selection,1
+841,Biological Material,1
+842,Biomaterial,1
+843,functional organ,1
+844,benefit,1
+845,Health Promotion,1
+846,specific expression,1
+847,promoter,1
+848,desired shape,1
+849,device,1
+850,novel species,1
+851,pathogen,1
+852,positive news,0
+853,specific activity,1
+854,barrier,1
+855,good quality,1
+856,metabolic switch,1
+857,kidney,1
+858,parasite,1
+859,desired property,1
+860,certain phenotype,1
+861,doctor,1
+862,flavor,1
+863,sweet sugar,1
+864,biological substance,1
+865,microorganism,1
+866,particular meaning,0
+867,vacuum,0
+868,air vacuum,0
+869,epidermis,1
+870,human interest,0
+871,health policy,1
+872,stimulus,1
+873,Sensory Stimulus,1
+874,competence,0
+875,master competence,0
+876,biological product,1
+877,biotechnology,1
+878,genome,1
+879,stable form,1
+880,chaperone,1
+881,mold,1
+882,Stable Product,1
+883,cellular waste,1
+884,metabolic waste,1
+885,health professional,1
+886,study,1
+887,Flu Flow,1
+888,functional state,1
+889,switch,1
+890,health service,1
+891,certain effect,1
+892,Functional Object,1
+893,concept,0
+894,desired quality,0
+895,innovation,0
+896,particular pattern,1
+897,sequence,1
+898,certain property,1
+899,material,1
+900,novel target,1
+901,vaccine,1
+902,specific environment,1
+903,trust,0
+904,relationship,0
+905,biological world,1
+906,network,1
+907,social organization,0
+908,signal,1
+909,sensor,1
+910,normal shape,1
+911,particular purpose,0
+912,tool,1
+913,catalyst,1
+914,positive reward,0
+915,punishment,0
+916,stable mass,0
+917,particle,0
+918,Human Organism,1
+919,force,1
+920,support,1
+921,social worker,0
+922,bile tract,1
+923,certain environment,1
+924,person,1
+925,typh fever,1
+926,functional product,1
+927,state,1
+928,genetic state,1
+929,conformation,1
+930,molecular switch,1
+931,solution,1
+932,problem,1
+933,hypothesis,1
+934,scientific research,1
+935,genetic trait,1
+936,Milk Machine,0
+937,biology,1
+938,scientific theory,1
+939,message,1
+940,partnership,0
+941,Milk Industry,0
+942,response,1
+943,master teacher,0
+944,scientific study,1
+945,meaning,0
+946,diet,1
+947,distance,0
+948,travel time,0
+949,self,0
+950,motor,0
+951,brain,1
+952,phenotype,1
+953,bond,1
+954,tumor,1
+955,Mo Bond,1
+956,motivation,0
+957,personality,0
+958,fruit,1
+959,system,1
+960,goal,0
+961,team,0
+962,microbe,1
+963,scar,1
+964,wound,1
+965,value,0
+966,connection,1
+967,stable network,1
+968,game,0
+969,carcinogen,1
+970,constant,1
+971,process variable,1
+972,seed,1
+973,biofilm,1
+974,tissue,1
+975,bone,1
+976,sense,1
+977,place,1
+978,project,0
+979,shape,1
+980,body,1
+981,defect,1
+982,pattern,1
+983,Morph Pattern,0
+984,microbiome,1
+985,program,0
+986,drug,1
+987,company,1
+988,community,1
+989,particular image,0
+990,video,0
+991,liquid,1
+992,chemical,1
+993,flower,1
+994,dead matter,1
+995,cartilage,1
+996,pass barrier,1
+997,result,1
+998,vision,1
+999,tumour,1
+1000,decision,1
+1001,physician,1
+1002,model,1
+1003,balance,1
+1004,genotype,1
+1005,particular outcome,1
+1006,image,0
+1007,visual world,0
+1008,clock,1
+1009,tooth,1
+1010,communication,1
+1011,taste,1
+1012,group,1
+1013,social sphere,0
+1014,suture,1
+1015,symbiosis,1
+1016,flap,1
+1017,pharmacy,1
+1018,skeleton,1
+1019,breath,1
+1020,cough,1
+1021,microbiota,1
+1022,mechanism,1
+1023,hope,0
+1024,profit,0
+1025,business,0
+1026,substance,1
+1027,lung,1
+1028,human product,1
+1029,travel route,0
+1030,strain,1
+1031,lens,0
+1032,fit,1
+1033,computer,0
+1034,family,0
+1035,cure,1
+1036,environment,1
+1037,smell,1
+1038,hippocampus,1
+1039,target,1
+1040,bile,1
+1041,conversation,0
+1042,contract,0
+1043,belief,0
+1044,Germ Tube,1
+1045,cyst,1
+1046,messenger,1
+1047,climate,1
+1048,waste,1
+1049,compound,1
+1050,good,0
+1051,solvent,1
+1052,pollen,1
+1053,patient,1
+1054,Fus Fusion,0
+1055,pigment,1
+1056,job,0
+1057,bubble,0
+1058,consensus,0
+1059,meeting,0
+1060,crop,0
+1061,construct,0
+1062,pump,0
+1063,juice,0
+1064,custom,0
+1065,society,0
+1066,speaker,0
+1067,complex,0
+1068,ribosome,1
+1069,homeostasis,1
+1070,caregiver,0
+1071,quality,0
+1072,circle,0
+1073,crime,0
+1074,tone,0
+1075,market,0
+1076,baby,0
+1077,camera,0
+1078,mass,0
+1079,biomass,1
+1080,judgment,0
+1081,process theory,0
+1082,fate,0
+1083,future,0
+1084,Co Factor,1
+1085,competency,0
+1086,nurse,0
+1087,teacher,0
+1088,statement,0
+1089,leader,0
+1090,cost,0
+1091,price,0
+1092,gun,0
+1093,Delphi,0
+1094,better,0
+1095,researcher,1
+1096,membrane,1
+1097,world,0
+1098,storm,0
+1099,dying,1
+1100,theory,1
+1101,partner,0
+1102,child,0
+1103,musical world,0
+1104,bad word,0
+1105,knowledge,0
+1106,physical process,1
+1107,service,0
+1108,potential,0
+1109,photon,0
+1110,career,0
+1111,human,0
+1112,laser,0
+1113,musical tool,0
+1114,placenta,1
+1115,parent,1
+1116,fetus,1
+1117,process term,0
+1118,step,0
+1119,diversity,1
+1120,condition,1
+1121,term,0
+1122,health,1
+1123,tongue,1
+1124,position,0
+1125,aroma,0
+1126,identity,0
+1127,dialogue,0
+1128,payment,0
+1129,master term,0
+1130,flag position,0
+1131,activity,1
+1132,desired,0
+1133,cal tone,0
+1134,Flag Point,0
+1135,flag node,0
+1136,pass process,0
+1137,mirna,0
+1138,specific target,1
+1139,eps,0
+1140,Ecm,1
+1141,rbc,1
+1142,Mrna,1
+1143,chemotherapy,1
+1144,tumor vasculature,1
+1145,binding pocket,1
+1146,ligands,1
+1147,binding specificity,1
+1148,glucose uptake,1
+1149,binding substrate,1
+1150,binding motif,1
+1151,tumor growth,1
+1152,thrombin,1
+1153,platelet granules,1
+1154,target enzyme,1
+1155,Specific Receptor,1
+1156,ligand,1
+1157,cdk2,1
+1158,Cyclin D1,1
+1159,small volume,1
+1160,size,1
+1161,kinesin,1
+1162,microtubule tracks,1
+1163,phage,1
+1164,Bacterial Pathogens,1
+1165,antibody,1
+1166,antigen,1
+1167,specific mab,1
+1168,antibodies,1
+1169,specific inhibitor,1
+1170,ribosomes,1
+1171,ribosomal subunits,1
+1172,platelet membrane,1
+1173,Vp1,1
+1174,viral replication,1
+1175,binding target,1
+1176,small particle,1
+1177,platelet surface,1
+1178,area,1
+1179,receptors,1
+1180,ratio,1
+1181,membranes,1
+1182,Gag,1
+1183,actin,1
+1184,p300,1
+1185,Histone H4,1
+1186,surface tension,1
+1187,histone modifications,1
+1188,antigens,1
+1189,receptor,1
+1190,substrate,1
+1191,surface waters,1
+1192,Cdk Kinase,1
+1193,radiotherapy,1
+1194,Histone H3,1
+1195,inhibitors,1
+1196,tubulin,1
+1197,microtubules,1
+1198,Mdm2,1
+1199,Mdm Expression,1
+1200,chromatin,1
+1201,histones,1
+1202,Hsp90,1
+1203,Hsp70,1
+1204,hemoglobin,1
+1205,cb phage,1
+1206,phage lambda,1
+1207,pk signaling,1
+1208,cdk signaling,1
+1209,nucleosomes,1
+1210,tumors,1
+1211,inhibition,1
+1212,ferritin,1
+1213,cisplatin,1
+1214,microtubule,1
+1215,p53,1
+1216,Cdk Activity,1
+1217,imaging,1
+1218,molecules,1
+1219,streptavidin,1
+1220,biotin,1
+1221,interaction,1
+1222,docking,1
+1223,doxorubicin,1
+1224,mitochondria,1
+1225,integrin,1
+1226,fibronectin,1
+1227,Vip,1
+1228,surface temperature,1
+1229,particles,1
+1230,heparin,1
+1231,platelets,1
+1232,residues,1
+1233,p21,1
+1234,nanoparticles,1
+1235,biomolecules,1
+1236,Odn,1
+1237,odor odors,0
+1238,substrates,1
+1239,albumin,1
+1240,plasminogen,1
+1241,fibrinogen,1
+1242,trypsin,1
+1243,proteases,1
+1244,multiple,0
+1245,Mof,1
+1246,Multiple Targets,1
+1247,metals,1
+1248,dynein,1
+1249,kinase,1
+1250,cargo,1
+1251,rapamycin,1
+1252,structures,1
+1253,glucagon,1
+1254,nanoparticle,1
+1255,chymotrypsin,1
+1256,set,0
+1257,Target Targets,1
+1258,kinases,1
+1259,colchicine,1
+1260,viral rnas,1
+1261,multiple rnas,1
+1262,tp recombinase,1
+1263,plasmids,1
+1264,sites,1
+1265,myosin,1
+1266,tf recombinase,1
+1267,tf transport,1
+1268,Cd Antigen,1
+1269,Cas9,1
+1270,adhesion,1
+1271,multiple substrates,1
+1272,mts,1
+1273,mt mrnas,1
+1274,Tr Repressor,1
+1275,Tr Operator,1
+1276,Odor Stimuli,1
+1277,Cd44,1
+1278,Cyclin G1,1
+1279,cyclin d2,1
+1280,afm,1
+1281,human transferrin,1
+1282,cyclin e1,1
+1283,p62,1
+1284,ubiquitin,1
+1285,Rad51,1
+1286,cdk substrates,1
+1287,autophagy,1
+1288,cyclin d3,1
+1289,gps,1
+1290,delivery,1
+1291,Cd Recombinase,1
+1292,Cdk4,1
+1293,lysosomes,1
+1294,Lig Attachment,1
+1295,surface,1
+1296,pk phosphorylation,1
+1297,Cdk Phosphorylation,1
+1298,small sirna,1
+1299,mirnas,1
+1300,integrins,1
+1301,ms tau,1
+1302,tau phosphorylation,1
+1303,Tr Activator,1
+1304,Tp Likely,1
+1305,tb transcripts,1
+1306,Mab,1
+1307,Rt Therapy,1
+1308,Fret,1
+1309,bacterial virulence,1
+1310,vlp,1
+1311,Ct Sequencing,1
+1312,Ct Mutations,1
+1313,Odor Recognition,1
+1314,crp,1
+1315,sequences,1
+1316,lysozyme,1
+1317,p50,1
+1318,p65,1
+1319,Ra Virus,1
+1320,viruses,1
+1321,dot,0
+1322,tf dimer,1
+1323,tb tetramer,1
+1324,Cam,1
+1325,different substrates,1
+1326,mtx,1
+1327,rbp,1
+1328,tma,1
+1329,tb promoter,1
+1330,mitochondrial targets,1
+1331,rfp,1
+1332,gfp,1
+1333,cholesterol,1
+1334,Ldl,1
+1335,quercetin,1
+1336,flavonoids,1
+1337,Notch,1
+1338,Cd Kinase,1
+1339,Cd Phosphatase,1
+1340,map,1
+1341,Dnmt1,1
+1342,tp kinase,1
+1343,tp transport,1
+1344,pet,0
+1345,human skin,1
+1346,id number,0
+1347,parp1,1
+1348,length,0
+1349,ache,1
+1350,target structures,1
+1351,cd4,1
+1352,il synthase,1
+1353,il synthetase,1
+1354,folate,1
+1355,homocysteine,1
+1356,volume,1
+1357,Mtor Expression,1
+1358,bont,1
+1359,Hrp,1
+1360,human serum,1
+1361,different surfaces,1
+1362,Rt Treatment,1
+1363,rnas enzyme,1
+1364,Cbp,1
+1365,hdl expression,1
+1366,cd3,1
+1367,cma,1
+1368,mm thickness,1
+1369,csc,1
+1370,Sp Phage,1
+1371,pip,0
+1372,peg,0
+1373,esa,0
+1374,Er Gene,1
+1375,fak,1
+1376,different structures,1
+1377,csa,1
+1378,paclitaxel,1
+1379,Her2,1
+1380,Ra Antibody,1
+1381,mm diameter,1
+1382,afp,1
+1383,different tissues,1
+1384,rad,1
+1385,location,1
+1386,docetaxel,1
+1387,Lps,1
+1388,Ldh,1
+1389,Fts Transcription,1
+1390,adsorption,1
+1391,analytes,1
+1392,Hsa,1
+1393,hdl activity,1
+1394,Fgf2,1
+1395,egf,1
+1396,msp,1
+1397,cml,1
+1398,mm spacing,1
+1399,Il Synthesis,1
+1400,App,1
+1401,Fgf,1
+1402,Bmp Promoter,1
+1403,Mtor,1
+1404,tms,1
+1405,vegf,1
+1406,Prc2,1
+1407,Rab Gtpases,1
+1408,Tpa,1
+1409,gp120,1
+1410,objects,1
+1411,angiogenesis,1
+1412,irradiation,1
+1413,mst,1
+1414,msi,1
+1415,Tf Transcripts,1
+1416,cpp,1
+1417,human tissues,1
+1418,mm length,1
+1419,met,1
+1420,Blm,1
+1421,human tissue,1
+1422,Rif,1
+1423,Pbp Sequences,1
+1424,rnas species,1
+1425,il reductase,1
+1426,hdl,1
+1427,users,0
+1428,stat3,1
+1429,Rab Gtpase,1
+1430,stimuli,1
+1431,camp,1
+1432,Lc3 Expression,1
+1433,values,0
+1434,Hat,0
+1435,surfaces,1
+1436,sirt1,1
+1437,hdac gene,1
+1438,lamp,1
+1439,Lc3,1
+1440,hdac expression,1
+1441,Ccr5,1
+1442,Tn Max,1
+1443,Pp2A,1
+1444,rnap promoter,1
+1445,abca1,1
+1446,cdp,1
+1447,tp probably,1
+1448,Fts Residues,1
+1449,mmp,1
+1450,atg promoter,1
+1451,rnai,1
+1452,rnap transcripts,1
+1453,igg4,1
+1454,gpcr,1
+1455,Pi3K,1
+1456,Pi Atoms,1
+1457,Stat1,1
+1458,Cxcr4,1
+1459,Ry Transcription,1
+1460,Hba1C,1
+1461,Mtorc1,1
+1462,mitochondrial membranes,1
+1463,Mabs,1
+1464,Igg,1
+1465,Ry Transcripts,1
+1466,Qds,1
+1467,Egfr,1
+1468,nad,1
+1469,Sirna,1
+1470,Ampk,1
+1471,Cdc42,1
+1472,Pcna,1
+1473,tgfβ,0
+1474,Vegfr Transcription,1
+1475,ezh2,1
+1476,Abcb1,1
+1477,Fts Sequences,1
+1478,vegfr signaling,1
+1479,Cyp3A4,1
+1480,Erα,0
+1481,grp78,1
+1482,shrna,1
+1483,pdgf,1
+1484,polymerase,1
+1485,Ssdna,1
+1486,Dsb,1
+1487,Dsdna,1
+1488,Mrnas,1
+1489,H3K4Me3,1
+1490,dsrna,1
+1491,trna,1
+1492,Gapdh,1
+1493,gap junctions,1
+1494,Gap Spacing,1
+1495,gsk3β,1
+1496,Gα Subunit,1
+1497,vegfr2,1
+1498,rnas antibody,1
+1499,Gα Subunits,1
+1500,Vegfa,1
+1501,Dnase,1
+1502,Gap Gaps,1
+1503,aav,1
+1504,nadh,1
+1505,gsk3,1
+1506,eif4 transcription,1
+1507,eif4 transcripts,1
+1508,antisense,1
+1509,99mtc,1
+1510,bpa,1
+1511,liver,1
+1512,igf1,1
+1513,Lncrna,1
+1514,bfgf,1
+1515,muscle weakness,1
+1516,severe toxicities,1
+1517,amiodarone,1
+1518,cardiac arrhythmias,1
+1519,side effect,1
+1520,schistosomiasis,1
+1521,liver schistosomiasis,1
+1522,epilepsy,1
+1523,cognitive impairments,1
+1524,side effects,1
+1525,obesity,1
+1526,weight gain,1
+1527,weight loss,1
+1528,schizophrenia,1
+1529,cognitive impairment,1
+1530,lipid peroxidation,1
+1531,Aspergillus,1
+1532,pulmonary tuberculosis,1
+1533,fetal loss,1
+1534,asbestos,1
+1535,lung cancers,1
+1536,tissue necrosis,1
+1537,postoperative discomfort,1
+1538,platelet lysis,1
+1539,aging,1
+1540,bone resorption,1
+1541,Drug Reactions,1
+1542,Salmonella,1
+1543,septic meningitis,1
+1544,antibiotics,1
+1545,bacterial overgrowth,1
+1546,liver fibrosis,1
+1547,increased susceptibility,1
+1548,lipid droplets,1
+1549,bleomycin,1
+1550,pulmonary fibrosis,1
+1551,pulmonary sequestration,1
+1552,severe sequelae,1
+1553,liver lesions,1
+1554,fasting,1
+1555,Heart Rhythm,1
+1556,significant tension,1
+1557,platelet inhibition,1
+1558,increased weight,1
+1559,constipation,1
+1560,Bowel Syndrome,1
+1561,severe reactions,1
+1562,breath sounds,1
+1563,dialysis,1
+1564,renal insufficiency,1
+1565,hepatitis,1
+1566,amyloidosis,1
+1567,bone metastases,1
+1568,lipid oxidation,1
+1569,salmon cholera,1
+1570,renal failure,1
+1571,increased variability,1
+1572,Thermal Reactions,1
+1573,seizures,1
+1574,relapse,1
+1575,St Wounds,1
+1576,wound dehiscence,1
+1577,cognitive loss,1
+1578,hypertension,1
+1579,heart failure,1
+1580,St Aureus,1
+1581,osteomyelitis,1
+1582,hypoglycemia,1
+1583,bacteremia,1
+1584,intoxication,1
+1585,gout,1
+1586,poly arthritis,1
+1587,radiation sickness,1
+1588,drinking,1
+1589,neutropenia,1
+1590,bone metastasis,1
+1591,anemia,1
+1592,diarrhea,1
+1593,influenza,1
+1594,hyperglycemia,1
+1595,miscarriage,1
+1596,liver failure,1
+1597,overweight,1
+1598,nephrotoxicity,1
+1599,bone lesions,1
+1600,asthma,1
+1601,ischemia,1
+1602,ischemic neuropathy,1
+1603,hyperthermia,1
+1604,heat waves,1
+1605,stroke,1
+1606,headache,1
+1607,infertility,1
+1608,coma,1
+1609,increased viscosity,1
+1610,bone swelling,1
+1611,iv morphine,1
+1612,analgesia,1
+1613,dementia,1
+1614,fibrosis,1
+1615,iv insulin,1
+1616,hypoglycaemia,1
+1617,thrombocytopenia,1
+1618,heart rate,1
+1619,dyspnea,1
+1620,N2O,1
+1621,high temperatures,1
+1622,cardiotoxicity,1
+1623,sarcopenia,1
+1624,iv naloxone,1
+1625,psychosis,1
+1626,Wound Healing,1
+1627,wheezing,1
+1628,renal impairment,1
+1629,penicillin,1
+1630,significant vasoconstriction,1
+1631,hypotension,1
+1632,vomiting,1
+1633,syncope,1
+1634,hypoxia,1
+1635,meningitis,1
+1636,sepsis,1
+1637,thrombosis,1
+1638,heart sound,1
+1639,Ct Testing,1
+1640,ad vulgaris,1
+1641,dry weather,1
+1642,mesothelioma,1
+1643,acidosis,1
+1644,hepatotoxicity,1
+1645,heart sounds,1
+1646,Di Water,1
+1647,hallucinations,1
+1648,dehydration,1
+1649,St Ulcer,1
+1650,ulceration,1
+1651,arrhythmia,1
+1652,cirrhosis,1
+1653,injection,1
+1654,apoptosis,1
+1655,propofol,1
+1656,high yield,1
+1657,anoxia,1
+1658,osteoporosis,1
+1659,hypoxemia,1
+1660,paracetamol,1
+1661,Heat Release,1
+1662,acetaminophen,1
+1663,arsenic,1
+1664,toxic effects,1
+1665,breath loss,1
+1666,morphine,1
+1667,breath gas,1
+1668,apnea,1
+1669,pulmonary hemorrhage,1
+1670,sedation,1
+1671,chloroquine,1
+1672,reflux,1
+1673,obstruction,1
+1674,toxic effect,1
+1675,pacing,1
+1676,bradycardia,1
+1677,ketamine,1
+1678,acupuncture,1
+1679,arrhythmias,1
+1680,bias,1
+1681,Ra Sugar,1
+1682,sweet fruit,1
+1683,breath change,1
+1684,Co2,1
+1685,Multiple Sclerosis,1
+1686,jaundice,1
+1687,endocarditis,1
+1688,dysphagia,1
+1689,cavitation,1
+1690,propranolol,1
+1691,Ad Therapy,1
+1692,cholera,1
+1693,anesthesia,1
+1694,migraine,1
+1695,headaches,1
+1696,atherosclerosis,1
+1697,incontinence,1
+1698,tachycardia,1
+1699,Toxic Reactions,1
+1700,uncertainty,1
+1701,Ad Use,1
+1702,alcoholism,1
+1703,aspirin,1
+1704,hemorrhage,1
+1705,tamponade,1
+1706,haloperidol,1
+1707,hyponatremia,1
+1708,Chd,1
+1709,ha trees,1
+1710,convulsions,1
+1711,sweet taste,1
+1712,Et Drug,1
+1713,tt protein,1
+1714,aggregation,1
+1715,cytotoxicity,1
+1716,high value,1
+1717,ph anxiety,1
+1718,misdiagnosis,1
+1719,pt eyes,1
+1720,glaucoma,1
+1721,high values,1
+1722,lidocaine,1
+1723,strabismus,1
+1724,pta,1
+1725,eyelid swelling,1
+1726,high viscosity,1
+1727,dyskinesia syndrome,1
+1728,aspiration,1
+1729,warfarin,1
+1730,peritonitis,1
+1731,Legionella,1
+1732,keratitis,1
+1733,Pa Stones,1
+1734,gall bladder,1
+1735,Cea,1
+1736,Chronic Ulceration,1
+1737,tb proteins,1
+1738,chronic urticaria,1
+1739,cv tomato,0
+1740,tb protein,1
+1741,Bacteri Diseases,1
+1742,tt cells,1
+1743,necrosis,1
+1744,Chronic Ulcers,1
+1745,pneumonitis,1
+1746,bp substitutions,1
+1747,syphilis,1
+1748,blindness,1
+1749,Chronic Wounds,1
+1750,Chronic Ulcer,1
+1751,multiple tumors,1
+1752,Il Oxide,1
+1753,haem oxygenase,1
+1754,frameshift,1
+1755,pt eye,1
+1756,indels,1
+1757,uti,1
+1758,dry mouth,1
+1759,et iii,1
+1760,bilirubin,1
+1761,iv immunoglobulin,1
+1762,anaphylaxis,1
+1763,Cs Factor,1
+1764,deletions,1
+1765,Cs Virus,1
+1766,gall stone,1
+1767,Ph Pylori,1
+1768,gastritis,1
+1769,tt expression,1
+1770,Ad Production,1
+1771,Ad Work,1
+1772,Ha Ulcer,1
+1773,poly crystals,1
+1774,Id Therapy,1
+1775,sars,1
+1776,cv wheat,1
+1777,stunting,1
+1778,bp substitution,1
+1779,gall stones,1
+1780,Cs Phage,1
+1781,lysis,1
+1782,par paralysis,1
+1783,et aureus,1
+1784,Cs Cells,1
+1785,Af Serum,1
+1786,blood viscosity,1
+1787,tb mutation,1
+1788,deafness,1
+1789,sle,1
+1790,cardiomyopathy,1
+1791,sah,1
+1792,skin ulceration,1
+1793,rt inh,1
+1794,thrombolysis,1
+1795,cholestasis,1
+1796,dry skin,1
+1797,Tt Concentration,1
+1798,hemolysis,1
+1799,Multiple Problems,1
+1800,skin wounds,1
+1801,cv rice,1
+1802,skin ulcers,1
+1803,iv iron,1
+1804,anaemia,1
+1805,Cs Viruses,1
+1806,Id Work,1
+1807,gall calculi,1
+1808,ha soil,1
+1809,fermentation,1
+1810,Il Application,1
+1811,rt plasma,1
+1812,Sa Salt,1
+1813,nystagmus,1
+1814,dry throat,1
+1815,skin ulcer,1
+1816,vasoconstriction,1
+1817,Sa Aureus,1
+1818,burnout,1
+1819,pd influenza,1
+1820,rt paralysis,1
+1821,Hpv,1
+1822,cell lysis,1
+1823,Ra Toxin,1
+1824,Id Use,1
+1825,di radical,1
+1826,fluorescence,1
+1827,pth,1
+1828,oxidation,1
+1829,Pa Acid,1
+1830,pancreatitis,1
+1831,pl milk,1
+1832,mastitis,1
+1833,Ha Water,1
+1834,Mdma,1
+1835,mitochondrial swelling,1
+1836,emt,1
+1837,Pl Acid,1
+1838,aaa,1
+1839,bacterial pathogenicity,1
+1840,Pl Oil,1
+1841,Rt Used,1
+1842,ros,1
+1843,Mma,1
+1844,red wine,1
+1845,pt surgery,1
+1846,recurrence,1
+1847,red spots,1
+1848,Rt Chemotherapy,1
+1849,red swelling,1
+1850,Pd Virus,1
+1851,Id Protein,1
+1852,denaturation,1
+1853,haem hydrolysis,1
+1854,hbv,1
+1855,hcc,1
+1856,dizziness,1
+1857,Cc Lesions,1
+1858,Bacterial Resistance,1
+1859,Dna Expression,1
+1860,cell necrosis,1
+1861,cc size,1
+1862,difficulty,1
+1863,Haem Peroxidation,1
+1864,lbp,1
+1865,dna mutant,1
+1866,Dna Mutations,1
+1867,aas,1
+1868,Cc Virus,1
+1869,Af Pneumoniae,1
+1870,af acid,1
+1871,cc tumors,1
+1872,bmi,1
+1873,dbs,1
+1874,Cc Tumor,1
+1875,ards,1
+1876,Af Influenzae,1
+1877,Af Pylori,1
+1878,hcv,1
+1879,cvd,1
+1880,Aki,1
+1881,dna phenotype,1
+1882,Sbp,1
+1883,Dna Syndrome,1
+1884,nsaid,1
+1885,ns recombination,1
+1886,ns collisions,1
+1887,nsaids,1
+1888,decay,1
+1889,spider silk,1
+1890,symbiotic symbiosis,1
+1891,small size,1
+1892,small molecules,1
+1893,polymorphism,1
+1894,viral infection,1
+1895,epigenetic silencing,1
+1896,methylation,1
+1897,heritability,1
+1898,human placenta,1
+1899,trophoblast,1
+1900,Small Molecule,1
+1901,cell polarity,1
+1902,cadherin,1
+1903,complex traits,1
+1904,senescence,1
+1905,lipid vesicles,1
+1906,gene therapy,1
+1907,complexity,1
+1908,gene regulation,1
+1909,eukaryotes,1
+1910,Eukaryotic Genomes,1
+1911,gene families,1
+1912,hypermethylation,1
+1913,cell shape,1
+1914,Cellular Transport,1
+1915,transporters,1
+1916,epigenetic reprogramming,1
+1917,demethylation,1
+1918,Placental,1
+1919,endocytosis,1
+1920,Leishmania,1
+1921,trypanosoma cruzi,1
+1922,imprinting,1
+1923,Archaea,1
+1924,methan archaea,1
+1925,Eukaryotic Cells,1
+1926,mutual antagonism,1
+1927,Eukaryotic Life,1
+1928,villi,1
+1929,chemotaxis,1
+1930,Chem Chemotaxis,1
+1931,plant species,1
+1932,keratin,1
+1933,Ke Keratin,1
+1934,endothelium,1
+1935,metastasis,1
+1936,trypanosoma parasites,1
+1937,plant roots,1
+1938,wing notch,1
+1939,heterochromatin,1
+1940,Saccharomyces,1
+1941,histone,1
+1942,H4 Histones,1
+1943,collagen,1
+1944,elastin,1
+1945,endoderm,1
+1946,Coron Virus,1
+1947,proteobacteria,1
+1948,mitosis,1
+1949,meiosis,1
+1950,rhodopsin,1
+1951,op rhodopsin,1
+1952,lysosome,1
+1953,calmodulin,1
+1954,myelin,1
+1955,oligodendrocytes,1
+1956,telomeres,1
+1957,learning,1
+1958,phospholipids,1
+1959,cytokinesis,1
+1960,Plasmodium,1
+1961,Arabidopsis,1
+1962,oligodendrocyte,1
+1963,cognition,1
+1964,Small Vesicle,1
+1965,heme,1
+1966,photosynthesis,1
+1967,chlorophyll,1
+1968,sterols,1
+1969,lnc lncrnas,1
+1970,Coronavirus,1
+1971,prion,1
+1972,Prp Prion,1
+1973,laminin,1
+1974,microbes,1
+1975,Lip Lipase,1
+1976,magnesium,1
+1977,gut,1
+1978,plasticity,1
+1979,cellulose,1
+1980,chitin,1
+1981,cilia,1
+1982,flagella,1
+1983,regulation,1
+1984,proliferation,1
+1985,telomerase,1
+1986,complement,1
+1987,immunoglobulin,1
+1988,nucleosome,1
+1989,lignin,1
+1990,aggrecan,1
+1991,graphene,1
+1992,graphite,1
+1993,mitophagy,1
+1994,auxin,1
+1995,ethylene,1
+1996,spermatogenesis,1
+1997,xylan,1
+1998,attention,1
+1999,immunity,1
+2000,autoimmunity,1
+2001,transferrin,1
+2002,myoglobin,1
+2003,recombination,1
+2004,Actinobacteria,1
+2005,motility,1
+2006,glia,1
+2007,chlamydia,1
+2008,encoding,1
+2009,histidine,1
+2010,amyloid,1
+2011,Abeta,1
+2012,anaphase,1
+2013,polysaccharide,1
+2014,neurogenesis,1
+2015,lipid,1
+2016,phosphatidylcholine,1
+2017,prokaryotes,1
+2018,spectrin,1
+2019,mor silk,1
+2020,pluripotency,1
+2021,4-Oct,0
+2022,starch,1
+2023,semen,1
+2024,living,1
+2025,nutrients,1
+2026,telomere,1
+2027,malignancy,1
+2028,Nanog,1
+2029,phospholipid,1
+2030,phosphorylation,1
+2031,morphogenesis,1
+2032,prediabetes,1
+2033,clathrin,1
+2034,stemness,1
+2035,spermatozoa,1
+2036,parasites,1
+2037,tau,1
+2038,interferon,1
+2039,cytokines,1
+2040,glycolysis,1
+2041,H2B,1
+2042,microorganisms,1
+2043,cysteine,1
+2044,hepcidin,1
+2045,control,1
+2046,carcinoma,1
+2047,bacteriophage,1
+2048,phylogeny,1
+2049,p63,1
+2050,chitosan,1
+2051,Fusarium,1
+2052,fat,1
+2053,hydroxyproline,1
+2054,H2A,1
+2055,astrocytes,1
+2056,Cam Calmodulin,1
+2057,osteocytes,1
+2058,allergy,1
+2059,caspases,1
+2060,epididymis,1
+2061,Al Albumin,1
+2062,Tm Rhodopsin,1
+2063,embryogenesis,1
+2064,testis,1
+2065,carbohydrates,1
+2066,manganese,1
+2067,glucan,1
+2068,nuclear rnp,1
+2069,virulence,1
+2070,reoxygenation,1
+2071,dynamin,1
+2072,osteoclasts,1
+2073,sirolimus,1
+2074,specificity,1
+2075,binding,1
+2076,pathogenicity,1
+2077,phagocytosis,1
+2078,affinity,1
+2079,ageing,1
+2080,dormancy,1
+2081,flowering,1
+2082,germination,1
+2083,function,1
+2084,pathology,1
+2085,globulin,1
+2086,Anopheles,1
+2087,adiponectin,1
+2088,tendon,1
+2089,symbionts,1
+2090,selectivity,1
+2091,caveolae,1
+2092,troponin,1
+2093,spermatocytes,1
+2094,recognition,1
+2095,biosynthesis,1
+2096,thermodynamics,1
+2097,desiccation,1
+2098,nectar,1
+2099,pollination,1
+2100,vimentin,1
+2101,leptin,1
+2102,Drosophila,1
+2103,tolerance,1
+2104,Anther Stigma,1
+2105,Prp,1
+2106,cytokeratin,1
+2107,wing twist,0
+2108,H3K9,1
+2109,nociception,1
+2110,casein,1
+2111,Che Chemotaxis,1
+2112,Myc,1
+2113,Crispr,1
+2114,Abc,1
+2115,Tp53,1
+2116,ricketts parasites,1
+2117,mosquitoes,1
+2118,Ras,1
+2119,itch,1
+2120,fm calmodulin,1
+2121,Rdna,1
+2122,Tcm,1
+2123,Tc Genes,1
+2124,rrna,1
+2125,Nuclear Receptors,1
+2126,Psi,1
+2127,Igm,1
+2128,Aba,1
+2129,sod,1
+2130,Nuclear Translocation,1
+2131,Nls,1
+2132,Hsp,1
+2133,chaperones,1
+2134,Tor,1
+2135,Tert,1
+2136,C1Q,1
+2137,tm toxin,1
+2138,Mapk,1
+2139,mf genes,1
+2140,tnf,1
+2141,Plp,1
+2142,mdr,1
+2143,Psii,1
+2144,asd,1
+2145,Ar Genes,1
+2146,mos2,1
+2147,Mtdna,1
+2148,Mt Rrna,1
+2149,Gpcrs,1
+2150,Isg,1
+2151,ppi,1
+2152,Py Genes,1
+2153,snp,1
+2154,Ifn,1
+2155,iaa,1
+2156,Naa,1
+2157,Cpg,1
+2158,mbp,1
+2159,rgo,1
+2160,lnc rnas,1
+2161,gip,1
+2162,Cnts,1
+2163,snps,1
+2164,Brca,1
+2165,T2Dm,1
+2166,Ctcf,1
+2167,Ift,1
+2168,Microrna,1
+2169,mbl,1
+2170,bbs,1
+2171,ttr,1
+2172,Escs,1
+2173,svz,1
+2174,htert,1
+2175,Adhd,1
+2176,Ifns,1
+2177,fk506,1
+2178,ncrnas,1

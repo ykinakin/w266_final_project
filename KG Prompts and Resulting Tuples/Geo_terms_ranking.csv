@@ -1,0 +1,356 @@
+DistilBERT Base,,,Fine-Tuned DistilBERT,
+"{""Word"":volcanic rock}",,1,"{""Word"":precipitation}",1
+"{""Word"":mineral oils}",,1,"{""Word"":peat}",1
+"{""Word"":mineral grains}",,1,"{""Word"":radioactive ore}",1
+"{""Word"":dioxide}",,1,"{""Word"":industrial uses}",1
+"{""Word"":Polar Dioxide}",,1,"{""Word"":economic potential}",1
+"{""Word"":orange}",,0,"{""Word"":aggregate}",1
+"{""Word"":gram}",,1,"{""Word"":kim}",1
+"{""Word"":name}",,0,"{""Word"":natural gas}",1
+"{""Word"":spectrum}",,1,"{""Word"":permafrost}",1
+"{""Word"":rainbow}",,0,"{""Word"":gasoline}",1
+"{""Word"":gene}",,0,"{""Word"":chemical waste}",1
+"{""Word"":names}",,0,"{""Word"":tin}",1
+"{""Word"":glacial snow}",,1,"{""Word"":mineral occurrences}",1
+"{""Word"":elemental lead}",,1,"{""Word"":ruby}",1
+"{""Word"":creek}",,1,"{""Word"":crystalline}",1
+"{""Word"":vein}",,1,"{""Word"":asbestos}",1
+"{""Word"":metal}",,1,"{""Word"":clay products}",1
+"{""Word"":tin}",,1,"{""Word"":little}",1
+"{""Word"":atoms}",,1,"{""Word"":shale}",1
+"{""Word"":receptor}",,0,"{""Word"":cobalt}",1
+"{""Word"":fur}",,0,"{""Word"":rubber}",1
+"{""Word"":salt crystal}",,1,"{""Word"":uranium}",1
+"{""Word"":sheep}",,0,"{""Word"":ceramics}",1
+"{""Word"":para}",,0,"{""Word"":amber}",1
+"{""Word"":shale}",,1,"{""Word"":al bite}",1
+"{""Word"":gamma}",,1,"{""Word"":mar mg}",0
+"{""Word"":amino acids}",,0,"{""Word"":phosphorus}",1
+"{""Word"":uranium}",,1,"{""Word"":ni occurs}",1
+"{""Word"":lime shale}",,1,"{""Word"":gas}",1
+"{""Word"":amber}",,1,"{""Word"":metals}",1
+"{""Word"":natural oil}",,1,"{""Word"":scrap}",1
+"{""Word"":yellow oxide}",,1,"{""Word"":industrial purposes}",1
+"{""Word"":Aluminum}",,1,"{""Word"":gems}",1
+"{""Word"":gas shale}",,1,"{""Word"":rock matter}",1
+"{""Word"":fauna}",,0,"{""Word"":table iii}",0
+"{""Word"":gas}",,1,"{""Word"":bronze}",1
+"{""Word"":metals}",,1,"{""Word"":science}",1
+"{""Word"":cornwall}",,1,"{""Word"":resin}",1
+"{""Word"":material}",,1,"{""Word"":construction}",1
+"{""Word"":adrenaline}",,0,"{""Word"":pine point}",1
+"{""Word"":coconut juice}",,0,"{""Word"":natural drainage}",1
+"{""Word"":component}",,1,"{""Word"":groundwater}",1
+"{""Word"":pink}",,0,"{""Word"":nickel}",1
+"{""Word"":organic glass}",,1,"{""Word"":agricultural use}",1
+"{""Word"":ions}",,1,"{""Word"":aluminum}",1
+"{""Word"":grape wine}",,0,"{""Word"":sandstone}",1
+"{""Word"":golden}",,1,"{""Word"":several flows}",1
+"{""Word"":poison}",,0,"{""Word"":symbol}",1
+"{""Word"":index}",,0,"{""Word"":sugar}",0
+"{""Word"":inventory}",,0,"{""Word"":water}",1
+"{""Word"":sulfur}",,1,"{""Word"":funding}",0
+"{""Word"":industrial}",,0,"{""Word"":chloride}",1
+"{""Word"":groundwater}",,1,"{""Word"":slate}",1
+"{""Word"":nickel}",,1,"{""Word"":ontario}",1
+"{""Word"":polar crystals}",,0,"{""Word"":elemental sulfur}",1
+"{""Word"":aluminum}",,1,"{""Word"":earth sciences}",1
+"{""Word"":sandstone}",,1,"{""Word"":industrial use}",1
+"{""Word"":symbol}",,0,"{""Word"":several radioactive}",1
+"{""Word"":cocaine}",,0,"{""Word"":natural resources}",1
+"{""Word"":sugar}",,0,"{""Word"":radar}",1
+"{""Word"":lime water}",,0,"{""Word"":mineral salts}",1
+"{""Word"":salt salts}",,1,"{""Word"":basalt}",1
+"{""Word"":glucose}",,0,"{""Word"":black tar}",1
+"{""Word"":mineral element}",,1,"{""Word"":ni content}",1
+"{""Word"":lime soda}",,0,"{""Word"":volcanic fragments}",1
+"{""Word"":water}",,1,"{""Word"":thus ni}",0
+"{""Word"":whiskey}",,0,"{""Word"":present}",1
+"{""Word"":mineral gold}",,1,"{""Word"":ore bodies}",1
+"{""Word"":chloride}",,1,"{""Word"":engineering}",1
+"{""Word"":slate}",,1,"{""Word"":steel}",1
+"{""Word"":lunar dust}",,1,"{""Word"":zinc}",1
+"{""Word"":space}",,0,"{""Word"":chemical reactions}",1
+"{""Word"":dinosaur teeth}",,0,"{""Word"":florida}",0
+"{""Word"":phase}",,1,"{""Word"":silicon}",1
+"{""Word"":formulation}",,0,"{""Word"":radioactive terrain}",1
+"{""Word"":volcanic ash}",,1,"{""Word"":native metal}",1
+"{""Word"":mineral salts}",,1,"{""Word"":exploration}",1
+"{""Word"":content}",,0,"{""Word"":soils}",1
+"{""Word"":energy}",,1,"{""Word"":runoff}",1
+"{""Word"":flora}",,0,"{""Word"":mineral exploration}",1
+"{""Word"":ion}",,1,"{""Word"":information}",1
+"{""Word"":rock}",,1,"{""Word"":salt cake}",1
+"{""Word"":kidney}",,0,"{""Word"":black spruce}",1
+"{""Word"":grape}",,0,"{""Word"":secondary organic}",1
+"{""Word"":database}",,0,"{""Word"":diamonds}",1
+"{""Word"":zinc}",,1,"{""Word"":helium}",1
+"{""Word"":corn dust}",,0,"{""Word"":ore formation}",1
+"{""Word"":domain}",,1,"{""Word"":value}",1
+"{""Word"":rubber dioxide}",,0,"{""Word"":pine twigs}",0
+"{""Word"":lunar plasma}",,0,"{""Word"":moss}",1
+"{""Word"":silicon}",,1,"{""Word"":recovery}",1
+"{""Word"":marine gastropod}",,0,"{""Word"":ash}",1
+"{""Word"":diamonds}",,1,"{""Word"":minor gravel}",1
+"{""Word"":color}",,0,"{""Word"":dissolved salts}",1
+"{""Word"":value}",,0,"{""Word"":rock fragments}",1
+"{""Word"":soda lime}",,1,"{""Word"":volcanic matter}",1
+"{""Word"":charcoal}",,1,"{""Word"":common groundwater}",1
+"{""Word"":nut nuts}",,0,"{""Word"":coal}",1
+"{""Word"":nucleus}",,1,"{""Word"":earth}",1
+"{""Word"":ash}",,1,"{""Word"":iron}",1
+"{""Word"":salt crystals}",,1,"{""Word"":landscape}",1
+"{""Word"":dust}",,1,"{""Word"":australia}",1
+"{""Word"":bread}",,0,"{""Word"":sapphire}",1
+"{""Word"":venom}",,0,"{""Word"":petroleum}",1
+"{""Word"":skull}",,0,"{""Word"":deposits}",1
+"{""Word"":coconut}",,0,"{""Word"":minor oil}",1
+"{""Word"":porcelain}",,1,"{""Word"":legend}",1
+"{""Word"":solution}",,1,"{""Word"":platinum}",1
+"{""Word"":concentrate}",,1,"{""Word"":pb oxide}",1
+"{""Word"":gold coin}",,0,"{""Word"":heavy oils}",1
+"{""Word"":marine minerals}",,1,"{""Word"":malaysia}",1
+"{""Word"":equipment}",,0,"{""Word"":radioactive waste}",1
+"{""Word"":yeast}",,0,"{""Word"":although sodium}",1
+"{""Word"":sauce}",,0,"{""Word"":ceramic purposes}",1
+"{""Word"":grain}",,1,"{""Word"":sediments}",1
+"{""Word"":sugar cane}",,0,"{""Word"":country}",0
+"{""Word"":volcano}",,1,"{""Word"":rare metal}",1
+"{""Word"":liquor}",,1,"{""Word"":concentration}",1
+"{""Word"":rice}",,0,"{""Word"":numerous flows}",1
+"{""Word"":pepper}",,0,"{""Word"":snow}",1
+"{""Word"":coal}",,1,"{""Word"":wood}",1
+"{""Word"":earth}",,1,"{""Word"":ceramic use}",0
+"{""Word"":iron}",,1,"{""Word"":lake erie}",1
+"{""Word"":grape extract}",,0,"{""Word"":volcanic materials}",1
+"{""Word"":alcohol}",,0,"{""Word"":organic compounds}",1
+"{""Word"":petroleum}",,1,"{""Word"":jade}",1
+"{""Word"":load}",,0,"{""Word"":noise}",0
+"{""Word"":platinum}",,1,"{""Word"":cement}",1
+"{""Word"":bath}",,0,"{""Word"":radioactive elements}",1
+"{""Word"":dinosaur vein}",,0,"{""Word"":well}",1
+"{""Word"":armor}",,0,"{""Word"":lithium oxide}",1
+"{""Word"":lunar waste}",,0,"{""Word"":secondary clay}",1
+"{""Word"":fungus}",,0,"{""Word"":asphalt}",1
+"{""Word"":flour}",,0,"{""Word"":electricity}",1
+"{""Word"":elements}",,1,"{""Word"":metal supply}",1
+"{""Word"":bony}",,0,"{""Word"":nowhere}",0
+"{""Word"":bath stone}",,0,"{""Word"":natural materials}",1
+"{""Word"":coal shale}",,1,"{""Word"":heavy oil}",1
+"{""Word"":Aluminium}",,1,"{""Word"":magnesium}",1
+"{""Word"":concentration}",,1,"{""Word"":ore fluids}",1
+"{""Word"":force}",,1,"{""Word"":equation}",1
+"{""Word"":snow}",,1,"{""Word"":agricultural soils}",1
+"{""Word"":crystal structure}",,1,"{""Word"":marble}",1
+"{""Word"":matrix}",,1,"{""Word"":waters}",1
+"{""Word"":diet}",,0,"{""Word"":recycling}",0
+"{""Word"":grape juice}",,0,"{""Word"":table ii}",0
+"{""Word"":tin ore}",,1,"{""Word"":rare earth}",1
+"{""Word"":company}",,0,"{""Word"":quartz}",1
+"{""Word"":cement}",,1,"{""Word"":although lithium}",1
+"{""Word"":mining}",,1,"{""Word"":sodium}",1
+"{""Word"":mineral water}",,1,"{""Word"":industrial applications}",1
+"{""Word"":asphalt}",,1,"{""Word"":veins}",1
+"{""Word"":polar gas}",,1,"{""Word"":volcanic glass}",1
+"{""Word"":ethanol}",,1,"{""Word"":indonesia}",0
+"{""Word"":strain}",,1,"{""Word"":table vi}",0
+"{""Word"":coconut sugar}",,0,"{""Word"":oil}",1
+"{""Word"":equation}",,1,"{""Word"":side rite}",1
+"{""Word"":star}",,0,"{""Word"":ore deposition}",1
+"{""Word"":marble}",,1,"{""Word"":salt}",1
+"{""Word"":waters}",,1,"{""Word"":earth minerals}",1
+"{""Word"":map}",,0,"{""Word"":building materials}",1
+"{""Word"":charge}",,0,"{""Word"":lunar}",1
+"{""Word"":coal sandstone}",,0,"{""Word"":chemical treatment}",1
+"{""Word"":crystal complex}",,1,"{""Word"":logging}",1
+"{""Word"":salt formation}",,1,"{""Word"":quarry}",1
+"{""Word"":amino acid}",,0,"{""Word"":elemental sulph}",1
+"{""Word"":medal}",,0,"{""Word"":india}",1
+"{""Word"":soda cone}",,1,"{""Word"":manitoba}",1
+"{""Word"":property}",,0,"{""Word"":building products}",0
+"{""Word"":yellow}",,0,"{""Word"":thrusting}",1
+"{""Word"":coffee}",,0,"{""Word"":secondary lead}",1
+"{""Word"":quartz}",,1,"{""Word"":planning}",1
+"{""Word"":pavement}",,0,"{""Word"":natural waters}",1
+"{""Word"":sodium}",,1,"{""Word"":distribution}",1
+"{""Word"":veins}",,1,"{""Word"":sand}",1
+"{""Word"":fossil fuels}",,1,"{""Word"":wastewater}",1
+"{""Word"":density}",,1,"{""Word"":natural gases}",1
+"{""Word"":library}",,0,"{""Word"":grass}",1
+"{""Word"":cannabis}",,0,"{""Word"":basic lava}",1
+"{""Word"":mosaic}",,0,"{""Word"":black diamond}",1
+"{""Word"":lime juice}",,0,"{""Word"":common till}",1
+"{""Word"":oil}",,0,"{""Word"":oils}",1
+"{""Word"":knowledge}",,1,"{""Word"":phosphate}",1
+"{""Word"":stress}",,1,"{""Word"":table iv}",0
+"{""Word"":aluminium}",,1,"{""Word"":niagara}",1
+"{""Word"":salt}",,1,"{""Word"":tar}",1
+"{""Word"":vein mineral}",,1,"{""Word"":insufficient}",1
+"{""Word"":prime}",,0,"{""Word"":newfoundland}",1
+"{""Word"":gum minerals}",,0,"{""Word"":rock waste}",1
+"{""Word"":mineral bone}",,1,"{""Word"":crushing}",1
+"{""Word"":dirt}",,1,"{""Word"":lead}",1
+"{""Word"":element protein}",,0,"{""Word"":secondary primary}",1
+"{""Word"":core}",,1,"{""Word"":thus cu}",0
+"{""Word"":vinyl}",,0,"{""Word"":thus mn}",0
+"{""Word"":layer}",,0,"{""Word"":gravel}",1
+"{""Word"":gas discharge}",,1,"{""Word"":ceramic tile}",1
+"{""Word"":module}",,1,"{""Word"":plants}",1
+"{""Word"":insulin}",,0,"{""Word"":consumption}",1
+"{""Word"":acid residue}",,1,"{""Word"":silver}",1
+"{""Word"":dinosaur bone}",,0,"{""Word"":agriculture}",1
+"{""Word"":dinosaur bones}",,0,"{""Word"":mn enrichment}",1
+"{""Word"":glass}",,1,"{""Word"":till}",1
+"{""Word"":garlic}",,0,"{""Word"":sampling}",1
+"{""Word"":salts}",,1,"{""Word"":inorganic compounds}",1
+"{""Word"":beer}",,0,"{""Word"":al kali}",1
+"{""Word"":distribution}",,0,"{""Word"":aluminum oxide}",1
+"{""Word"":reserve}",,1,"{""Word"":pb loss}",1
+"{""Word"":marijuana}",,0,"{""Word"":bog}",1
+"{""Word"":salmon}",,0,"{""Word"":minerals}",1
+"{""Word"":stock}",,0,"{""Word"":ammonia}",1
+"{""Word"":sand}",,1,"{""Word"":gold}",1
+"{""Word"":flux}",,1,"{""Word"":carbon}",1
+"{""Word"":formula}",,1,"{""Word"":agricultural purposes}",1
+"{""Word"":tan}",,0,"{""Word"":black streak}",1
+"{""Word"":yellow violet}",,0,"{""Word"":building stones}",1
+"{""Word"":hydrogen}",,1,"{""Word"":calcium salts}",1
+"{""Word"":manga}",,0,"{""Word"":chemical uses}",1
+"{""Word"":oxygen}",,1,"{""Word"":building stone}",1
+"{""Word"":silk}",,0,"{""Word"":earth oxide}",1
+"{""Word"":phosphate}",,1,"{""Word"":minor pb}",1
+"{""Word"":type}",,1,"{""Word"":pine pollen}",1
+"{""Word"":bone}",,0,"{""Word"":saskatchewan}",1
+"{""Word"":solutions}",,1,"{""Word"":rare}",1
+"{""Word"":diagram}",,1,"{""Word"":mineral wool}",1
+"{""Word"":nuts}",,0,"{""Word"":metal recycling}",1
+"{""Word"":wool}",,0,"{""Word"":lithium}",1
+"{""Word"":lead}",,1,"{""Word"":calcium}",1
+"{""Word"":acid battery}",,0,"{""Word"":diamond}",1
+"{""Word"":wine}",,0,"{""Word"":lake water}",1
+"{""Word"":gravel}",,1,"{""Word"":native cu}",1
+"{""Word"":list}",,1,"{""Word"":alteration}",1
+"{""Word"":soda}",,1,"{""Word"":granite}",1
+"{""Word"":matter}",,1,"{""Word"":gem}",1
+"{""Word"":armour}",,0,"{""Word"":ore}",1
+"{""Word"":mineral oxide}",,1,"{""Word"":copper}",1
+"{""Word"":silver}",,1,"{""Word"":rock powder}",1
+"{""Word"":muscle}",,0,"{""Word"":crystalline stone}",1
+"{""Word"":plastic}",,1,"{""Word"":coke}",1
+"{""Word"":fossil oil}",,1,"{""Word"":argent}",1
+"{""Word"":treasure}",,0,"{""Word"":natural stone}",1
+"{""Word"":coal lead}",,0,"{""Word"":basic soda}",1
+"{""Word"":code}",,0,"{""Word"":deformation}",1
+"{""Word"":tin dioxide}",,1,"{""Word"":pottery}",1
+"{""Word"":champagne}",,0,"{""Word"":crystalline rock}",1
+"{""Word"":atom}",,1,"{""Word"":portland cement}",1
+"{""Word"":waste}",,0,"{""Word"":fuel}",1
+"{""Word"":acid batteries}",,0,"{""Word"":zoning}",1
+"{""Word"":lime limestone}",,1,"{""Word"":zinc oxide}",1
+"{""Word"":minerals}",,1,"{""Word"":native mercury}",1
+"{""Word"":grey}",,0,"{""Word"":methane}",1
+"{""Word"":gold}",,1,"{""Word"":lime}",1
+"{""Word"":blue}",,0,"{""Word"":native arsenic}",1
+"{""Word"":carbon}",,1,"{""Word"":sufficient}",1
+"{""Word"":vein system}",,1,"{""Word"":concrete}",1
+"{""Word"":organic tissue}",,0,"{""Word"":benton}",0
+"{""Word"":shell shells}",,1,"{""Word"":graph}",1
+"{""Word"":cortex}",,0,"{""Word"":dissolved oxygen}",1
+"{""Word"":yellow shale}",,0,"{""Word"":forest}",1
+"{""Word"":marine salts}",,1,"{""Word"":natural helium}",1
+"{""Word"":calcium}",,1,"{""Word"":failure}",1
+"{""Word"":proteins}",,0,"{""Word"":although ni}",0
+"{""Word"":diamond}",,1,"{""Word"":organic material}",1
+"{""Word"":term}",,1,"{""Word"":mud}",1
+"{""Word"":organic waste}",,0,"{""Word"":canada}",1
+"{""Word"":atmosphere}",,1,"{""Word"":clay}",1
+"{""Word"":granite}",,1,"{""Word"":au values}",1
+"{""Word"":sector}",,1,"{""Word"":debris}",1
+"{""Word"":ore}",,1,"{""Word"":stone}",1
+"{""Word"":green diamond}",,1,"{""Word"":rare metals}",1
+"{""Word"":copper}",,1,"{""Word"":natural gasoline}",1
+"{""Word"":Fossil Gas}",,1,"{""Word"":mineral processing}",1
+"{""Word"":blue violet}",,0,"{""Word"":sudbury}",1
+"{""Word"":delta}",,1,"{""Word"":potassium}",1
+"{""Word"":wheat rice}",,0,"{""Word"":title}",1
+"{""Word"":lemon}",,0,"{""Word"":radioactive substances}",1
+"{""Word"":pig oil}",,0,"{""Word"":moisture}",1
+"{""Word"":time}",,1,"{""Word"":nitrogen}",1
+"{""Word"":plasma}",,0,"{""Word"":metadata}",0
+"{""Word"":banana}",,0,"{""Word"":carbonate}",1
+"{""Word"":protein}",,0,"{""Word"":bao}",0
+"{""Word"":fuel}",,1,"{""Word"":native au}",1
+"{""Word"":township}",,0,"{""Word"":economic value}",1
+"{""Word"":lunar mud}",,0,"{""Word"":mineral matter}",1
+"{""Word"":nut oil}",,0,"{""Word"":production}",1
+"{""Word"":lime}",,0,"{""Word"":minor mn}",1
+"{""Word"":concrete}",,1,"{""Word"":chalk}",1
+"{""Word"":mushroom}",,0,"{""Word"":inorganic matter}",1
+"{""Word"":graph}",,1,"{""Word"":soap}",1
+"{""Word"":extracted}",,1,"{""Word"":magma}",1
+"{""Word"":milk}",,0,"{""Word"":ornamental}",1
+"{""Word"":dinosaur tooth}",,1,"{""Word"":limestone}",1
+"{""Word"":brain}",,0,"{""Word"":arsenic}",1
+"{""Word"":purple}",,0,"{""Word"":output}",1
+"{""Word"":alpha}",,1,"{""Word"":emerald}",1
+"{""Word"":dinosaur skull}",,1,"{""Word"":native zinc}",1
+"{""Word"":wheat}",,0,"{""Word"":economic significance}",1
+"{""Word"":thereof}",,0,"{""Word"":lake salt}",1
+"{""Word"":maize}",,0,"{""Word"":titanium}",1
+"{""Word"":blue diamond}",,1,"{""Word"":lava}",1
+"{""Word"":flow}",,1,"{""Word"":native pb}",1
+"{""Word"":Natural Rubber}",,0,"{""Word"":play}",1
+"{""Word"":mud}",,1,"{""Word"":agricultural uses}",1
+"{""Word"":wheat seed}",,0,"{""Word"":pine trees}",1
+"{""Word"":temperature}",,1,"{""Word"":secondary minerals}",1
+"{""Word"":tin mining}",,1,"{""Word"":carbon dioxide}",1
+"{""Word"":clay}",,1,"{""Word"":mercury}",1
+"{""Word"":sandy}",,1,"{""Word"":signal}",1
+"{""Word"":fossil fuel}",,1,"{""Word"":inorganic carbon}",1
+"{""Word"":potassium}",,1,"{""Word"":metal waste}",1
+"{""Word"":file}",,0,"{""Word"":replacement}",1
+"{""Word"":nitrogen}",,1,"{""Word"":data}",1
+"{""Word"":violet}",,0,"{""Word"":pollen}",1
+"{""Word"":coconut milk}",,0,"{""Word"":mn oxide}",1
+"{""Word"":volcanic lava}",,1,"{""Word"":insulation}",1
+"{""Word"":chalk}",,1,"{""Word"":mantle}",1
+"{""Word"":complex}",,1,"{""Word"":jasper}",1
+"{""Word"":soil}",,1,"{""Word"":rare elements}",1
+"{""Word"":bath limestone}",,0,"{""Word"":fractures}",1
+"{""Word"":notation}",,1,"{""Word"":chrome}",1
+"{""Word"":gas field}",,1,"{""Word"":elemental nitrogen}",1
+"{""Word"":soda dioxide}",,1,"{""Word"":minerals earth}",1
+"{""Word"":tensor}",,1,"{""Word"":dissolved solids}",1
+"{""Word"":limestone}",,1,"{""Word"":date}",1
+"{""Word"":output}",,0,"{""Word"":fibre}",1
+"{""Word"":emerald}",,1,"{""Word"":building purposes}",1
+"{""Word"":volcanic}",,1,"{""Word"":mar ca}",0
+"{""Word"":lava}",,1,"{""Word"":analysis}",1
+"{""Word"":vitamin}",,0,"{""Word"":cao}",0
+"{""Word"":Red Gum}",,0,"{""Word"":secondary aluminum}",1
+"{""Word"":mercury}",,1,"{""Word"":radioactive oxide}",1
+"{""Word"":snake}",,0,"{""Word"":soda ash}",1
+"{""Word"":glacier}",,1,"{""Word"":assimilation}",1
+"{""Word"":urine}",,0,"{""Word"":organic matter}",1
+"{""Word"":air}",,1,"{""Word"":occurrence}",1
+"{""Word"":data}",,1,"{""Word"":chemical processes}",1
+"{""Word"":assembly}",,1,"{""Word"":nevada}",1
+"{""Word"":crystal lattice}",,1,"{""Word"":ice}",1
+"{""Word"":lattice}",,1,"{""Word"":emery}",1
+"{""Word"":industry}",,1,"{""Word"":compilation}",1
+"{""Word"":set}",,1,"{""Word"":radioactive}",1
+"{""Word"":glacial ice}",,1,"{""Word"":quebec}",1
+"{""Word"":element alloy}",,1,,
+"{""Word"":section}",,1,,
+"{""Word"":oxide}",,1,,
+"{""Word"":moon}",,1,,
+"{""Word"":vein formation}",,1,,
+"{""Word"":soda ash}",,1,,
+"{""Word"":beta}",,1,,
+"{""Word"":polar ice}",,1,,
+"{""Word"":organic matter}",,1,,
+"{""Word"":glacial rock}",,1,,
+"{""Word"":turf}",,1,,
+"{""Word"":ice}",,1,,
+"{""Word"":gas phase}",,1,,
+"{""Word"":grape noir}",,0,,
